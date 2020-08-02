@@ -8,6 +8,8 @@ a
 
 int main()
 {
+	
+	dDDCZCZCADSDAAVVVACACA;
 	cout << "123" << endl;
 	adaddda
 	cout << "le xuan chien" << endl;
