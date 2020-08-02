@@ -15,6 +15,15 @@ int main()
 	cout << "333333333333333333333" << endl;
 	
 	dadadadadad
+	da
+	d
+	câ
+	d
+	d
+	ada
+	d
+	ad
+	a
 	
 	return 0;
 }
