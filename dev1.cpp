@@ -22,3 +22,18 @@ da
 da
 d
 
+da
+da
+d
+ada
+da
+sd
+ad
+
+?
+d
+3
+
+
+?
+
