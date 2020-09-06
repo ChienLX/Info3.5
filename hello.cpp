@@ -5,7 +5,14 @@ dadadaacac
 c
 ac
 a
-
+31
+1
+33
+1
+33
+1
+3
+13
 int main()
 {
 	cout << "123" << endl;
@@ -18,3 +25,20 @@ int main()
 	
 	return 0;
 }
+11
+1
+1
+1
+1
+1
+
+1
+
+
+
+
+
+3
+3
+3
+
